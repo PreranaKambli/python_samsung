@@ -1,4 +1,4 @@
-#check if the use given number is Even or Odd
+#Check if the use given number is Even or Odd
 
 print("Enter a number to check if it is Even or not")
 input_number = int(input())
