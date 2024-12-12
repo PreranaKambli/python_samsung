@@ -5,3 +5,4 @@ if(answer == 0):
     print("Please do not go out now")
 else:
     print("Then you can either choose to go out with umbrella or play with water")
+ 
