@@ -21,7 +21,7 @@ for i in range(size):
 numbers.sort()
 search_key = int(input('Enter the element to be searched: '))
 
-index = bubble_sort(numbers, search_key)
+index = buuble_sort(numbers, search_key)
 print('The inpur array is: \n', numbers)
 if index == -1:
     print(f'The number {search_key} was not found')
